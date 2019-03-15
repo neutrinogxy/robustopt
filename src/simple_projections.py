@@ -216,7 +216,7 @@ def test_projections(tol = 1e-5):
                            2.92164e-9,
                            5.89345e-9 ])
   
-  p1_desired = np.array([   6.85178e-7,
+  p2_desired = np.array([   6.85178e-7,
                             -5.90154e-7,
                             3.04519e-7,
                             -1.04984e-6,
